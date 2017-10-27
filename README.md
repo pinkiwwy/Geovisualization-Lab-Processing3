@@ -1,2 +1,2 @@
 # Research-Lab-Processing3
-GIS advanced visualization labs
+Developing open source geographic visualization techniques to be used in research and teaching for mapping spatial and spatiotemporal data sets.
